@@ -25,6 +25,6 @@ Embedded System Engineer.
 - Robotics.
 
 ---
-Let start counting my profile view.
+Let start counting my [profile view](https://github.com/antonkomarev/github-profile-views-counter).
 
 ![](https://komarev.com/ghpvc/?username=dangsonbk&label=PROFILE+VIEWS)
