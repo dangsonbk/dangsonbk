@@ -2,13 +2,12 @@
 
 I am ...
 
+```
 C++ Developer that love to write Python code.
-
 Embedded System Engineer.
-
 🖥️ Computer Geek
-
 ☕ Coffee Addict
+```
 
 ##### BIO
 
