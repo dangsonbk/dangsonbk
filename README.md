@@ -23,3 +23,5 @@ Embedded System Engineer.
 - PlayStation's most favorite games: GOW, Horizon Zero Dawn, eFootball (PES).
 - Smarthome.
 - Robotics.
+
+Let start counting my profile view. ![](https://komarev.com/ghpvc/?username=dangsonbk&label=PROFILE+VIEWS)
