@@ -24,4 +24,6 @@ Embedded System Engineer.
 - Smarthome.
 - Robotics.
 
-Let start counting my profile view. ![](https://komarev.com/ghpvc/?username=dangsonbk&label=PROFILE+VIEWS)
+---
+Let start counting my profile view.
+![](https://komarev.com/ghpvc/?username=dangsonbk&label=PROFILE+VIEWS)
