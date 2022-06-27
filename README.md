@@ -14,7 +14,6 @@ Embedded System Engineer.
 - Chief Research Engineer at **LG Electronics Vietnam**
 
 #### Hobbies
-- Making espresso at home, coffee pour over at office.
 - 3D printing.
 - PlayStation's most favorite games: GOW, Horizon Zero Dawn, eFootball (PES).
 - Smarthome.
