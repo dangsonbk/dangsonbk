@@ -3,6 +3,7 @@
 I am ...
 
 ```
+Chief Reseach Engineer at LG Electronics Vietnam.
 C++ Developer that love to write Python code.
 Embedded System Engineer.
 🖥️ Computer Geek
