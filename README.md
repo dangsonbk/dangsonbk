@@ -16,7 +16,6 @@ Embedded System Engineer.
 
 #### Hobbies
 - 3D printing.
-- PlayStation's most favorite games: GOW, Horizon Zero Dawn, eFootball (PES).
 - Smarthome.
 - Robotics.
 
