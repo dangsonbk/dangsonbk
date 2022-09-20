@@ -31,11 +31,8 @@ C++ Developer that love to write Python.
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)![Portainer](https://img.shields.io/badge/portainer-%13BEF9.svg?style=for-the-badge&logo=portainer&logoColor=white)![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white)![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)![Mosquitto](https://img.shields.io/badge/mosquitto-%233C5280.svg?style=for-the-badge&logo=eclipsemosquitto&logoColor=white)
 
 #### Hobbies
-- 3D printing.
-- Smarthome.
-- Robotics.
-
-![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)![Pi-Hole](https://img.shields.io/badge/pihole-%2396060C.svg?style=for-the-badge&logo=pi-hole&logoColor=white)![Home Assistant](https://img.shields.io/badge/home%20assistant-%2341BDF5.svg?style=for-the-badge&logo=home-assistant&logoColor=white)![Openwrt](https://img.shields.io/badge/OpenWRT-00B5E2?style=for-the-badge&logo=OpenWrt&logoColor=white)![Arduino](https://img.shields.io/badge/Arduino-%979D.svg?style=for-the-badge&logo=arduino&logoColor=white)
+![3D printing](https://img.shields.io/badge/3D%20Printing-green.svg?style=for-the-badge&logoColor=white)![Smarthome](https://img.shields.io/badge/Smarthome-blue.svg?style=for-the-badge&logoColor=white)![Robotics](https://img.shields.io/badge/Robotics-yellow.svg?style=for-the-badge&logoColor=white).
+![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)![Pi-Hole](https://img.shields.io/badge/pihole-%2396060C.svg?style=for-the-badge&logo=pi-hole&logoColor=white)![Home Assistant](https://img.shields.io/badge/home%20assistant-%2341BDF5.svg?style=for-the-badge&logo=home-assistant&logoColor=white)![Openwrt](https://img.shields.io/badge/OpenWRT-00B5E2?style=for-the-badge&logo=OpenWrt&logoColor=white)![Arduino](https://img.shields.io/badge/Arduino-%979D.svg?style=for-the-badge&logo=arduino&logoColor=white)![RetroArch](https://img.shields.io/badge/RetroArch-black.svg?style=for-the-badge&logo=RetroArch&logoColor=white)
 
 ---
 Let start counting my [profile view](https://github.com/antonkomarev/github-profile-views-counter).
