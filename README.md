@@ -30,9 +30,9 @@ C++ Developer that love to write Python.
 
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)![Portainer](https://img.shields.io/badge/portainer-%13BEF9.svg?style=for-the-badge&logo=portainer&logoColor=white)![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white)
 
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)![SQLite](https://img.shields.io/badge/sqlite-003B57.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 
-![REST](https://img.shields.io/badge/REST&RESTful-green?style=for-the-badge&labelColor=white)![MQTT](https://img.shields.io/badge/MQTT-purple?style=for-the-badge)![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)![Mosquitto](https://img.shields.io/badge/mosquitto-%233C5280.svg?style=for-the-badge&logo=eclipsemosquitto&logoColor=white)
+![REST](https://img.shields.io/badge/REST&RESTful-green?style=for-the-badge&labelColor=white)![MQTT](https://img.shields.io/badge/MQTT-purple?style=for-the-badge)![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)![Mosquitto](https://img.shields.io/badge/mosquitto-%233C5280.svg?style=for-the-badge&logo=eclipsemosquitto&logoColor=white)![GraphQL](https://img.shields.io/badge/graphql-E10098.svg?style=for-the-badge&logo=graphql&logoColor=white)
 
 ![Altium](https://img.shields.io/badge/Altium%20Designer-A5915F.svg?style=for-the-badge&logo=altiumdesigner&logoColor=white)![KiCad](https://img.shields.io/badge/kicad-314CB0.svg?style=for-the-badge&logo=kicad&logoColor=white)
 
