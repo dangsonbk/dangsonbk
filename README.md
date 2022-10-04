@@ -32,7 +32,7 @@ C++ Developer that love to write Python.
 
 ![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=flat-square&logo=postgresql&logoColor=white)![SQLite](https://img.shields.io/badge/sqlite-003B57.svg?style=flat-square&logo=sqlite&logoColor=white)
 
-![REST](https://img.shields.io/badge/REST&RESTful-green?style=flat-square&labelColor=white)![MQTT](https://img.shields.io/badge/MQTT-purple?style=flat-square)![JWT](https://img.shields.io/badge/JWT-black?style=flat-square&logo=JSON%20web%20tokens)![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)![Mosquitto](https://img.shields.io/badge/mosquitto-%233C5280.svg?style=flat-square&logo=eclipsemosquitto&logoColor=white)![GraphQL](https://img.shields.io/badge/graphql-E10098.svg?style=flat-square&logo=graphql&logoColor=white)
+![REST](https://img.shields.io/badge/REST&RESTful-green?style=flat-square)![MQTT](https://img.shields.io/badge/MQTT-purple?style=flat-square)![JWT](https://img.shields.io/badge/JWT-black?style=flat-square&logo=JSON%20web%20tokens)![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)![Mosquitto](https://img.shields.io/badge/mosquitto-%233C5280.svg?style=flat-square&logo=eclipsemosquitto&logoColor=white)![GraphQL](https://img.shields.io/badge/graphql-E10098.svg?style=flat-square&logo=graphql&logoColor=white)
 
 ![Altium](https://img.shields.io/badge/Altium%20Designer-A5915F.svg?style=flat-square&logo=altiumdesigner&logoColor=white)![KiCad](https://img.shields.io/badge/kicad-314CB0.svg?style=flat-square&logo=kicad&logoColor=white)
 
