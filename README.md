@@ -8,8 +8,6 @@ Chief Research Engineer at LG Electronics Vietnam.
   DevOps.
 ```
 
-### BIO
-
 **Languages**
 
 ![Strong](https://img.shields.io/badge/strong-%F0%9F%99%82-green?style=for-the-badge) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
@@ -24,18 +22,10 @@ Chief Research Engineer at LG Electronics Vietnam.
 
 **Others**
 
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white)![Portainer](https://img.shields.io/badge/portainer-%13BEF9.svg?style=flat-square&logo=portainer&logoColor=white)![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=Prometheus&logoColor=white)
-
-![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=flat-square&logo=postgresql&logoColor=white)![SQLite](https://img.shields.io/badge/sqlite-003B57.svg?style=flat-square&logo=sqlite&logoColor=white)
-
-![REST](https://img.shields.io/badge/REST&RESTful-green?style=flat-square)![MQTT](https://img.shields.io/badge/MQTT-purple?style=flat-square)![JWT](https://img.shields.io/badge/JWT-black?style=flat-square&logo=JSON%20web%20tokens)![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)![Mosquitto](https://img.shields.io/badge/mosquitto-%233C5280.svg?style=flat-square&logo=eclipsemosquitto&logoColor=white)![GraphQL](https://img.shields.io/badge/graphql-E10098.svg?style=flat-square&logo=graphql&logoColor=white)
-
-![Altium](https://img.shields.io/badge/Altium%20Designer-A5915F.svg?style=flat-square&logo=altiumdesigner&logoColor=white)![KiCad](https://img.shields.io/badge/kicad-314CB0.svg?style=flat-square&logo=kicad&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white)![Portainer](https://img.shields.io/badge/portainer-%13BEF9.svg?style=flat-square&logo=portainer&logoColor=white)![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=Prometheus&logoColor=white)![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=flat-square&logo=postgresql&logoColor=white)![SQLite](https://img.shields.io/badge/sqlite-003B57.svg?style=flat-square&logo=sqlite&logoColor=white)![REST](https://img.shields.io/badge/REST&RESTful-green?style=flat-square)![MQTT](https://img.shields.io/badge/MQTT-purple?style=flat-square)![JWT](https://img.shields.io/badge/JWT-black?style=flat-square&logo=JSON%20web%20tokens)![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)![Mosquitto](https://img.shields.io/badge/mosquitto-%233C5280.svg?style=flat-square&logo=eclipsemosquitto&logoColor=white)![GraphQL](https://img.shields.io/badge/graphql-E10098.svg?style=flat-square&logo=graphql&logoColor=white)![Altium](https://img.shields.io/badge/Altium%20Designer-A5915F.svg?style=flat-square&logo=altiumdesigner&logoColor=white)![KiCad](https://img.shields.io/badge/kicad-314CB0.svg?style=flat-square&logo=kicad&logoColor=white)
 
 #### Hobbies
-![3D printing](https://img.shields.io/badge/3D%20Printing-green.svg?style=flat-square&logoColor=white)![Smarthome](https://img.shields.io/badge/Smarthome-blue.svg?style=flat-square&logoColor=white)![Robotics](https://img.shields.io/badge/Robotics-yellow.svg?style=flat-square&logoColor=white)
-
-![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=flat-square&logo=Raspberry-Pi)![Pi-Hole](https://img.shields.io/badge/pihole-%2396060C.svg?style=flat-square&logo=pi-hole&logoColor=white)![Home Assistant](https://img.shields.io/badge/home%20assistant-%2341BDF5.svg?style=flat-square&logo=home-assistant&logoColor=white)![Arduino](https://img.shields.io/badge/Arduino-%979D.svg?style=flat-square&logo=arduino&logoColor=white)![RetroArch](https://img.shields.io/badge/RetroArch-black.svg?style=flat-square&logo=RetroArch&logoColor=white)![Openwrt](https://img.shields.io/badge/OpenWRT-00B5E2?style=flat-square&logo=OpenWrt&logoColor=white)![Node-RED](https://img.shields.io/badge/nodered-8F0000.svg?style=flat-square&logo=nodered&logoColor=white)
+![3D printing](https://img.shields.io/badge/3D%20Printing-green.svg?style=flat-square&logoColor=white)![Smarthome](https://img.shields.io/badge/Smarthome-blue.svg?style=flat-square&logoColor=white)![Robotics](https://img.shields.io/badge/Robotics-yellow.svg?style=flat-square&logoColor=white)![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=flat-square&logo=Raspberry-Pi)![Pi-Hole](https://img.shields.io/badge/pihole-%2396060C.svg?style=flat-square&logo=pi-hole&logoColor=white)![Home Assistant](https://img.shields.io/badge/home%20assistant-%2341BDF5.svg?style=flat-square&logo=home-assistant&logoColor=white)![Arduino](https://img.shields.io/badge/Arduino-%979D.svg?style=flat-square&logo=arduino&logoColor=white)![RetroArch](https://img.shields.io/badge/RetroArch-black.svg?style=flat-square&logo=RetroArch&logoColor=white)![Openwrt](https://img.shields.io/badge/OpenWRT-00B5E2?style=flat-square&logo=OpenWrt&logoColor=white)![Node-RED](https://img.shields.io/badge/nodered-8F0000.svg?style=flat-square&logo=nodered&logoColor=white)
 
 ---
 Let start counting my [profile view](https://github.com/antonkomarev/github-profile-views-counter).
