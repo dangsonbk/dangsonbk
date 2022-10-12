@@ -4,12 +4,8 @@ I am ...
 
 ```
 Chief Research Engineer at LG Electronics Vietnam.
-Embedded System Engineer.
-DevOps.
-
-C++ Developer that love to write Python.
-🖥️ Computer Geek
-☕ Coffee Addict
+  Embedded System Engineer.
+  DevOps.
 ```
 
 ### BIO
