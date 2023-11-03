@@ -12,8 +12,9 @@ Freelancer.
 ```
 
 ---
-Projects (freelancer team):
+## Projects (freelancer team):
 ![image](https://github.com/dangsonbk/dangsonbk/assets/6972607/55dec853-6de8-4091-bf73-3e33b9f932ef)
+
 - [1mcloud](https://1mcloud.vn/): Hosting, VPS, Proxy selling and management platform (public web service).
 - [httvserver](https://httvserver.com): Hosting, VPS, Proxy selling and management platform (public web service).
 - [cangduyenhai](http://cangduyenhai.com/): Ship laytime management system (private web service on publict domain).
