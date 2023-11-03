@@ -12,7 +12,7 @@ Freelancer.
 ```
 
 ---
-## Projects (freelancer team):
+## Projects (freelancer team & individual):
 ![image](https://github.com/dangsonbk/dangsonbk/assets/6972607/55dec853-6de8-4091-bf73-3e33b9f932ef)
 
 - [1mcloud](https://1mcloud.vn/): Hosting, VPS, Proxy selling and management platform (public web service).
