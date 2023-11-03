@@ -6,7 +6,19 @@ I am ...
 Chief Research Engineer at LG Electronics Vietnam.
   Embedded System Engineer.
   DevOps.
+Freelancer.
+  Project management.
+  Backend developer,
 ```
+
+---
+Projects (freelancer team):
+- [1mcloud](https://1mcloud.vn/): Hosting, VPS, Proxy selling and management platform (Public web service)
+- [httvserver](https://httvserver.com): Hosting, VPS, Proxy selling and management platform (Public web service)
+- [cangduyenhai](http://cangduyenhai.com/): Ship laytime management system (Private web service on publict domain)
+- [vpschinhhang247](https://vpschinhhang247.com): Hosting, VPS, Proxy selling and management platform (Public web service)
+- And other internal tools and services.
+---
 
 **Languages**
 
