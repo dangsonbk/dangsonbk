@@ -13,11 +13,16 @@ Freelancer.
 
 ---
 Projects (freelancer team):
-- [1mcloud](https://1mcloud.vn/): Hosting, VPS, Proxy selling and management platform (Public web service)
-- [httvserver](https://httvserver.com): Hosting, VPS, Proxy selling and management platform (Public web service)
-- [cangduyenhai](http://cangduyenhai.com/): Ship laytime management system (Private web service on publict domain)
-- [vpschinhhang247](https://vpschinhhang247.com): Hosting, VPS, Proxy selling and management platform (Public web service)
-- And other internal tools and services.
+![image](https://github.com/dangsonbk/dangsonbk/assets/6972607/55dec853-6de8-4091-bf73-3e33b9f932ef)
+- [1mcloud](https://1mcloud.vn/): Hosting, VPS, Proxy selling and management platform (public web service).
+- [httvserver](https://httvserver.com): Hosting, VPS, Proxy selling and management platform (public web service).
+- [cangduyenhai](http://cangduyenhai.com/): Ship laytime management system (private web service on publict domain).
+- [vpschinhhang247](https://vpschinhhang247.com): Hosting, VPS, Proxy selling and management platform (public web service).
+- And other internal tools and services:
+  - Data crawler using Python on Google App Engine.
+  - Oil tank management system for car manufacture (native application, embedded system).
+  - Clock Tower at Vietnam National Institute of Hygiene and Epidemiology.
+  - 80 ton truck scale – Viglacera Corporation – Hoanh Bo – Quang Ninh (native appication).
 ---
 
 **Languages**
