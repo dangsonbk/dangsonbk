@@ -8,10 +8,11 @@ Chief Research Engineer at LG Electronics Vietnam.
   DevOps.
 Freelancer.
   Project management.
-  Backend developer,
+  Backend developer.
 ```
 ## Freelancer (Individual & Team)
-- Django backend development.
+- Django backend.
+- Restful API.
 - React frontend.
 - Native application (Qt, C++. Python).
 - Desktop application using Web technology (Electron).
@@ -21,9 +22,9 @@ Freelancer.
 
 - [1mcloud](https://1mcloud.vn/): Hosting, VPS, Proxy selling and management platform (public web service).
 - [httvserver](https://httvserver.com): Hosting, VPS, Proxy selling and management platform (public web service).
-- [cangduyenhai](http://cangduyenhai.com/): Ship laytime management system (private web service on publict domain).
+- [cangduyenhai](http://cangduyenhai.com/): Ship laytime management system (private web service on public domain).
 - [vpschinhhang247](https://vpschinhhang247.com): Hosting, VPS, Proxy selling and management platform (public web service).
-- And other internal tools and services:
+- Internal tools, software and services:
   - Data crawler using Python on Google App Engine.
   - Oil tank management system for car manufacture (native application, embedded system).
   - Clock Tower at Vietnam National Institute of Hygiene and Epidemiology.
