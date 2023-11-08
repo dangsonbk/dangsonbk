@@ -3,13 +3,27 @@
 I am ...
 
 ```
-Chief Research Engineer at LG Electronics Vietnam.
-  Embedded System Engineer.
-  DevOps.
 Freelancer.
   Project management.
   Backend developer.
 ```
+
+I was ...
+```
+[2005-2008] Nguyen Hue Gifted High School
+[2008-2013] Hanoi University of Science and Technology (HUST)
+  Bachelor of Engineering (Electronics Engineering)
+[2009] Internship at Tan Phat Automation Join-Stock Company
+[2011-2012] Internship at Uvision Company.
+[2013-2014] VTV Broadcast and Telecom Service Company Limited (VTVBroadcom)
+  System Engineer.
+[2014-2016] FPT Software Company Limited (FSoft)
+  Embedded System Engineer.
+[2016-2023] Chief Research Engineer at LG Electronics Vietnam.
+  Embedded System Engineer.
+  DevOps.
+```
+
 ## Freelancer (Individual & Team)
 - Django backend.
 - Restful API.
@@ -26,9 +40,11 @@ Freelancer.
 - [vpschinhhang247](https://vpschinhhang247.com): Hosting, VPS, Proxy selling and management platform (public web service).
 - Internal tools, software and services:
   - Data crawler using Python on Google App Engine.
-  - Oil tank management system for car manufacture (native application, embedded system).
   - Clock Tower at Vietnam National Institute of Hygiene and Epidemiology.
   - 80 ton truck scale – Viglacera Corporation – Hoanh Bo – Quang Ninh (native appication).
+  - Oil tank management system for car manufacture (native application, embedded system).
+- System implementation and deployment:
+  Management and surveillance system for VTV’s transmission centers. (software and system configuration, hardware installation)
 ---
 
 **Languages**
