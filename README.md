@@ -45,12 +45,12 @@ I was ...
   - Oil tank management system for car manufacture (native application, embedded system).
 - System implementation and deployment:
   Management and surveillance system for VTV’s transmission centers. (software and system configuration, hardware installation)
----
 
 ### Contact me:
 
 ![image](https://github.com/dangsonbk/dangsonbk/assets/6972607/0ffbe527-56e3-4943-b2bc-8cf16462ab8b)
 
+---
 **Languages**
 
 ![Strong](https://img.shields.io/badge/strong-%F0%9F%99%82-green?style=for-the-badge) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
