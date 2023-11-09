@@ -48,11 +48,7 @@ I was ...
 ---
 
 Contact me:
-```
-Phone: +84 38 990 8656
-Email: dangson302@gmail.com
-Telegram: @jd3t2
-```
+![image](https://github.com/dangsonbk/dangsonbk/assets/6972607/0ffbe527-56e3-4943-b2bc-8cf16462ab8b)
 
 **Languages**
 
