@@ -47,6 +47,13 @@ I was ...
   Management and surveillance system for VTV’s transmission centers. (software and system configuration, hardware installation)
 ---
 
+Contact me:
+```
+Phone: +84 38 990 8656
+Email: dangson302@gmail.com
+Telegram: @jd3t2
+```
+
 **Languages**
 
 ![Strong](https://img.shields.io/badge/strong-%F0%9F%99%82-green?style=for-the-badge) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
