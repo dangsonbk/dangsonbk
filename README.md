@@ -5,7 +5,7 @@ I am son.nguyen
 I was ...
 
 ```
-[2016-2023] Chief Research Engineer at [LG Electronics R&D Vietnam](https://www.linkedin.com/company/lg-electronics-development-vietnam-ltd).
+[2016-2023] Chief Research Engineer at LG Electronics R&D Vietnam.
   Embedded System Engineer.
   DevOps.
 [2014-2016] FPT Software Company Limited (FSoft).
@@ -19,7 +19,7 @@ I was ...
 [2005-2008] Nguyen Hue Gifted High School.
 ```
 
-Resigning from [LG Electronics R&D Vietnam](https://www.linkedin.com/company/lg-electronics-development-vietnam-ltd) was a difficult decision, as I have greatly valued my time and experiences at the company, but I felt the need to pursue a different career path that aligns more closely with my evolving professional aspirations.
+Resigning from [LG Electronics R&D Vietnam](https://www.linkedin.com/company/lg-electronics-development-vietnam-ltd/) was a difficult decision, as I have greatly valued my time and experiences at the company, but I felt the need to pursue a different career path that aligns more closely with my evolving professional aspirations.
 Therefore, I decided to take a temporary hiatus, dedicate some time to acquiring new skills and knowledge, and to complete all my pending personal projects and hobbies.
 Indeed, freelance work provides a source of income during this transition period, ensuring my financial stability while I actively seek a new and stable career opportunity.
 
