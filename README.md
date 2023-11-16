@@ -1,14 +1,9 @@
 ### Hi there 👋
 
-I am ...
-
-```
-Freelancer.
-  Project management.
-  Backend developer.
-```
+I am son.nguyen
 
 I was ...
+
 ```
 [2016-2023] Chief Research Engineer at LG Electronics Vietnam.
   Embedded System Engineer.
@@ -22,6 +17,18 @@ I was ...
 [2008-2013] Hanoi University of Science and Technology (HUST).
   Bachelor of Engineering (Electronics Engineering)
 [2005-2008] Nguyen Hue Gifted High School.
+```
+
+Resigning from LG Electronics Vietnam was a difficult decision, as I have greatly valued my time and experiences at the company, but I felt the need to pursue a different career path that aligns more closely with my evolving professional aspirations.
+Therefore, I decided to take a temporary hiatus, dedicate some time to acquiring new skills and knowledge, and to complete all my pending personal projects and hobbies.
+Indeed, freelance work provides a source of income during this transition period, ensuring my financial stability while I actively seek a new and stable career opportunity.
+
+Since my departure from LG Electronics Vietnam, I have been working as a freelancer.
+
+```
+Freelancer.
+  Project management.
+  Backend developer.
 ```
 
 ## Freelancer (Individual & Team)
@@ -44,7 +51,7 @@ I was ...
   - 80 ton truck scale – Viglacera Corporation – Hoanh Bo – Quang Ninh (native appication).
   - Oil tank management system for car manufacture (native application, embedded system).
 - System implementation and deployment:
-  Management and surveillance system for VTV’s transmission centers. (software and system configuration, hardware installation)
+  Management and surveillance system for VTV’s transmission centers. (software and system configuration, hardware installation).
 
 ### Contact me:
 
