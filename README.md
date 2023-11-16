@@ -25,12 +25,6 @@ Indeed, freelance work provides a source of income during this transition period
 
 Since my departure from LG Electronics Vietnam, I have been working as a freelancer.
 
-```
-Freelancer.
-  Project management.
-  Backend developer.
-```
-
 ## Freelancer (Individual & Team)
 - Django backend.
 - Restful API.
