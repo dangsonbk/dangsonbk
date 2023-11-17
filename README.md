@@ -12,8 +12,8 @@ I was ...
   Embedded System Engineer.
 [2013-2014] VTV Broadcast and Telecom Service Company Limited (VTVBroadcom).
   System Engineer.
-[2011-2012] Internship at Uvision Company.
-[2009-2010] Internship at Tan Phat Automation Join-Stock Company.
+[2011-2012] Intern at Uvision Company.
+[2009-2010] Intern at Tan Phat Automation Join-Stock Company.
 [2008-2013] Hanoi University of Science and Technology (HUST).
   Bachelor of Engineering (Electronics Engineering)
 [2005-2008] Nguyen Hue Gifted High School.
