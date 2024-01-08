@@ -5,6 +5,7 @@ I am son.nguyen
 I was ...
 
 ```
+[2023-Now] CEO of METECH SERVICES CO., LTD
 [2016-2023] Chief Research Engineer at LG Electronics R&D Vietnam.
   Embedded System Engineer.
   DevOps.
@@ -21,9 +22,6 @@ I was ...
 
 Resigning from [LG Electronics R&D Vietnam](https://www.linkedin.com/company/lg-electronics-development-vietnam-ltd/) was a difficult decision, as I have greatly valued my time and experiences at the company, but I felt the need to pursue a different career path that aligns more closely with my evolving professional aspirations.
 Therefore, I decided to take a temporary hiatus, dedicated some time to acquiring new skills and knowledge, and to complete all my pending personal projects and hobbies.
-Indeed, freelance work provides a source of income during this transition period, ensuring my financial stability while I actively seek a new and stable career opportunity.
-
-Since my departure from LG Electronics R&D Vietnam, I have been working as a freelancer.
 
 ## Freelancer (Individual & Team)
 - Django backend.
