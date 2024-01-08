@@ -4,10 +4,8 @@ I am son.nguyen
 
 I am ...
 
-```
-[2023-Now] CEO of METECH SERVICES CO., LTD
-[2023] Founder of [cicloud.vn](https://manage.cicloud.vn)
-```
+- [2023-Now] CEO of METECH SERVICES CO., LTD
+- [2023] Founder of [cicloud.vn](https://manage.cicloud.vn/)
 
 I was ...
 
