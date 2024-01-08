@@ -2,10 +2,15 @@
 
 I am son.nguyen
 
-I was ...
+I am ...
 
 ```
 [2023-Now] CEO of METECH SERVICES CO., LTD
+```
+
+I was ...
+
+```
 [2016-2023] Chief Research Engineer at LG Electronics R&D Vietnam.
   Embedded System Engineer.
   DevOps.
