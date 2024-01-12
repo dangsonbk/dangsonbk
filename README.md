@@ -44,7 +44,7 @@ Therefore, I decided to take a temporary hiatus, dedicated some time to acquirin
 - Internal tools, software and services:
   - Data crawler using Python on Google App Engine.
   - Clock Tower at Vietnam National Institute of Hygiene and Epidemiology.
-  - 80 ton truck scale – Viglacera Corporation – Hoanh Bo – Quang Ninh (native appication).
+  - 80 ton truck scale – Viglacera Corporation – Hoanh Bo – Quang Ninh (native application).
   - Oil tank management system for car manufacture (native application, embedded system).
 - System implementation and deployment:
   Management and surveillance system for VTV’s transmission centers. (software and system configuration, hardware installation).
